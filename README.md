@@ -6,6 +6,8 @@ Generative AI and Python Automation Projects Collection
 Repository Overview 
 This repo sito ry presents a structured co llec tio n of Generative Artificial Intelligence and Python-based automation projects, dem o nstrating prac tic al im plem entation o f transfo rm er m o dels, N atural Languag e Pro cessing tec hniques, and structured data autom ation sy stem s. 
 Eac h pro jec t is d esigned w ith c larity , repro ducibility, and ed ucational value in m ind, m ak ing this repository suitab le for academ ic learning , AI experim entatio n, and professio nal portfolio presentation. 
+
+
 Project 1: GenAI Text Generation Project Using GPT-2 
 Project Overview 
 This pro ject presents a Generative Artificial Intelligence text generation system im p lem ented using the GPT-2 transformer model via the H ug ging Fac e Transform ers pip eline. The sy stem g enerates co herent and context-a w are text based on a predefined input p rom p t. 
@@ -25,6 +27,9 @@ Applications
 ● AI-assisted w riting to ols 
 ● C ontent autom ation sy stem s 
 ● Ed ucational AI d em onstrations 
+
+
+
 Project 2: GenAI Semantic Similarity Project Using Sentence Transformers 
 Project Overview 
 This pro ject im p lem ents a semantic similarity analysis system using the S entenc e Transform ers fram e w o rk . T he system co nverts tw o user-p rov ided texts into d ense vec tor em bed ding s and c alc ulates their sim ilarity using c osine sim ilarity . 
@@ -45,6 +50,9 @@ Applications
 ● Plagiarism d etection 
 ● Sem antic searc h engines 
 ● C hatbo t intent co m pariso n 
+
+
+
 Project 3: GenAI Sentiment-Based Review Analysis Using Transformers 
 Project Overview 
 This pro ject presents an AI-driven sentiment analysis system that pro cesses p rod uct rev ie w s, c lassifies eac h sentence as positive or neg ative, and extrac ts struc tured pros and cons. 
@@ -65,6 +73,9 @@ Applications
 ● Business intellig ence d ashb oard s 
 ● C ustom er satisfac tio n m onitoring 
 ● Auto m ated revie w sum m arization 
+
+
+
 Project 4: AI-Based Timetable Generator Using Python 
 Project Overview 
 This pro ject im p lem ents an autom ated timetable generation system that dynam ically creates academ ic sc hedules based on user-p rov id ed subjects, w ork ing d ays, and num ber of p erio ds. 
@@ -83,6 +94,10 @@ Applications
 ● Sc hoo l and co lleg e sched uling 
 ● Ac adem ic planning too ls 
 ● Routine generatio n system s 
+
+
+
+
 Project 5: AI-Based Meeting Minutes Generator Using Python 
 Project Overview 
 This pro ject presents an autom ated Meeting Minutes Generator that collects m eeting details, structures them system atically, and expo rts them as a form atted C SV file. 
